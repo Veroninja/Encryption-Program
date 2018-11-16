@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cipher
+comment1.params=
+comment1.target=Cipher()
+comment2.params=toCode
+comment2.target=java.lang.String\ encode(java.lang.String)
+comment3.params=dCode
+comment3.target=java.lang.String\ decode(java.lang.String)
+numComments=4
